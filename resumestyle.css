@@ -1,0 +1,289 @@
+    
+	
+	
+	
+	
+	.background {
+               background-color: #ffc3ab;	
+			   }
+
+	
+	.center { 
+	         background-color: white;
+			 width: 50%;
+			 height: 1500px;
+			 margin: 0% auto;
+			 border: solid;
+			 border-color: white;
+			 border-width: 10px;
+	  }
+	  
+	  
+	  
+	  /* LEFT SIDE */
+	  
+	.left {
+		width: 49.5%;
+		height: 997px;
+		float: left;
+	}
+	
+	.image {
+		width: 250px;
+		height: 250px;
+		border-radius: 50%;
+		border: solid;
+	    border-color: #ffa681;
+		border-width: 10px;
+		margin-left: 90px;
+		margin-top: 25px;
+	}
+	
+	
+	/* RIGHT SIDE */
+	
+	.right {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #ffc3ab;
+		border-left-color: #fe6f5e;
+		border-bottom-color: #fe6f5e; 
+		width: 49.5%;
+		height: 100px;
+		float: right;
+	}
+/*
+		border: solid;
+		border-color: aqua; */
+		
+		
+		
+		
+
+	/* 2nd RIGHT SIDE */	
+	
+	.right2 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #ffc3ab;
+		border-left-color: #fe6f5e;
+		border-bottom-color: #fe6f5e;
+		width: 49.5%;
+		height: 150px;
+		float: right;
+	}
+/*
+
+	/* 3rd RIGHT SIDE */	
+
+	.right3 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #ffc3ab;
+		border-left-color: #fe6f5e;
+		border-bottom-color: #fe6f5e;
+		width: 49.5%;
+		height: 300px;
+		float: right;
+	}	
+
+
+	/* 4th RIGHT SIDE */	
+
+	.right4 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #ffc3ab;
+		border-left-color: #fe6f5e;
+		border-bottom-color: #ffc3ab;
+		width: 49.5%;
+		height: 930.3px;
+		float: right;
+	}
+	
+	
+	
+	
+	
+	
+	/* TEXT ON THE 2nd RIGHT SIDE */
+	
+	.text1 {
+		font-family: Trebuchet MS;
+		margin: 130px;
+		font-size: 20px;
+	}
+	
+	
+	.text2 {
+		font-family: Verdana;
+		margin-left: 50px;
+		font-size: 11.5px;
+	}
+	
+	.text3 {
+		font-family: Verdana;
+		margin-left: 110px;
+		font-size: 11.5px;
+	}
+	
+	
+	.text4 {
+		font-family: Verdana;
+		margin-left: 140px;
+		font-size: 11.5px;
+	}
+	
+	
+	
+	
+	
+	/* TEXT ON THE 3rd RIGHT SIDE */
+	
+	.text5 {
+		font-family: Trebuchet MS;
+		background-color: #ffc3ab;
+		font-size: 20px;
+		margin-top: 500px;
+		padding-right: 189.3px;
+		
+		
+	}
+	
+	.text6 {
+		font-family: Verdana;
+        font-size: 14px;
+        text-align: center;
+	}
+	
+	
+	
+	
+	/* TEXT ON THE 3rd RIGHT SIDE */
+	
+	.text7 {
+		font-family: Trebuchet MS;
+		background-color: #ffc3ab;
+		font-size: 20px;
+		padding-right: 305px	
+	}
+	
+
+	/* TEXT ON THE 4th RIGHT SIDE */
+	
+	.text13 {
+		font-family: Trebuchet MS;
+		background-color: #ffc3ab;
+		font-size: 20px;
+		padding-right: 137.3px	
+	}
+
+	.text14 {
+		font-family: Verdana;
+        font-size: 6px;
+		text-align: center;
+		
+	}
+
+	.text15 {
+		font-family: Verdana;
+        font-size: 15px;
+		text-align: center;
+		
+	}
+	
+	.text16 {
+		font-family: Verdana;
+        font-size: 13px;
+		text-align: center;
+		
+	}
+	
+	
+	
+	/* LEFT SIDE */
+	
+	
+	/* 1st LEFT SIDE */
+	
+	.left1 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #fe6f5e;
+		border-left-color: #ffc3ab;
+		border-bottom-color: #fe6f5e;
+		width: 99.5%;
+		height: 300px;
+		float: left;
+
+	}
+	
+	
+	.left2 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #fe6f5e;
+		border-left-color: #ffc3ab;
+		border-bottom-color: #fe6f5e;
+		width: 99.5%;
+		height: 440px;
+		float: left;
+
+	}
+	
+	.left3 {
+		border: solid;
+		border-top-color: #ffc3ab;
+		border-right-color: #fe6f5e;
+		border-left-color: #ffc3ab;
+		border-bottom-color: #ffc3ab;
+		width: 49.5%;
+		width: 99.5%;
+		height: 745px;
+		float: left;
+
+	}
+		
+	
+	
+	
+        /* TEXT ON LEFT SIDE */
+		
+		
+		
+                     /* 1st TEXT ON LEFT SIDE */
+	.text8 {
+		font-family: Trebuchet MS;
+		background-color: #ffc3ab;
+		font-size: 20px;
+		padding-right: 218.3px;
+		
+	} 
+	
+
+	.text9 {
+		font-family: Verdana;
+		font-size: 15px;
+		
+	} 
+
+                   /* 2nd TEXT ON LEFT SIDE */
+
+	.text10 {
+		font-family: Trebuchet MS;
+		background-color: #ffc3ab;
+		font-size: 20px;;
+		padding-right: 106.3px;
+		
+	} 
+
+	.text11 {
+		font-family: Times New Roman;
+		font-size: 20px;
+		margin-left: 10px;
+		
+	} 
+	
+	.text12 {
+		font-family: Verdana;
+		font-size: 14px;
